@@ -4,13 +4,6 @@ Compilation of all my repositories on Github. Some of them may still be private,
 ---
 ## University
 
-
-### First Year
-#### 1st Semester
-| Name | Repositories |
-| - | - |
-| FPRO | [Atari Spider-man](https://github.com/francis802/projeto_fp) |
-
 ### Second Year
 #### 1st Semester
 | Name | Repositories |
