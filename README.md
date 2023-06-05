@@ -20,3 +20,4 @@ I'm a student of Informatics and Computing Engineering [(LEIC)](https://sigarra.
 
 ## 💻 Projects Developed
 
+You can check all the projects I have developed [here](PROJECTS.md), or see the most popular ones down below!
