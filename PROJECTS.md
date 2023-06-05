@@ -9,7 +9,7 @@ Compilation of all my repositories on Github. Some of them may still be private,
 #### 1st Semester
 | Name | Repositories |
 | - | - |
-| FPRO - Fundamentos de Programação | [Atari Spider-man](https://github.com/francis802/projeto_fp) |
+| FPRO | [Atari Spider-man](https://github.com/francis802/projeto_fp) |
 
 ### Second Year
 #### 1st Semester
