@@ -16,7 +16,10 @@ I'm a student of Informatics and Computing Engineering [(LEIC)](https://sigarra.
 
 ## ⚡ GitHub Stats
 
-[![Francisco Campos Github Stats](https://readme-stats.warengonzaga.com/api?username=francis802&show_icons=true&count_private=true)](https://github.com/warengonzaga/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=francis802&layout=compact)](https://github.com/warengonzaga/github-readme-stats)
+<div align="center">
+  <img height="180em" src="https://readme-stats.warengonzaga.com/api?username=francis802&show_icons=true&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://readme-stats.warengonzaga.com/api/top-langs?username=francis802&layout=compact"/>
+</div>
 
 ## 💻 Projects Developed
 
