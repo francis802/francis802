@@ -3,7 +3,7 @@ Compilation of all my repositories on Github. Some of them may still be private,
 
 ---
 ## University
-| Name | Repositories |
+| UC | Project Name |
 | - | - |
 | AED | [Timetable Manager](https://github.com/francis802/Timetable-Manager) |
 | AED | [Airlines Manager](https://github.com/francis802/Airlines-Manager) |
