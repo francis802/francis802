@@ -16,11 +16,11 @@ Compilation of all my repositories on Github. Some of them may still be private,
     <tr>
       <td rowspan=2>AED</td>
       <td><a href="https://github.com/francis802/Timetable-Manager">Timetable Manager</a></td>
-      <td>Project developed in C++ using several data structures</td>
+      <td>Project developed in C++ using several data structures such as queue, stack, list, vector, and binary search tree (having in consideration efficiency of the operations over the structures)</td>
     </tr>
     <tr>
       <td><a href="https://github.com/francis802/Airlines-Manager">Timetable Manager</a></td>
-      <td>Project developed in C++ using real datasets of Airline Graphs, </td>
+      <td>Project developed in C++ using real datasets of Airline Graphs, and developing efficient traversal algorithms over it</td>
     </tr>
     <tr>
       <td> LDTS </td>
@@ -44,11 +44,11 @@ Compilation of all my repositories on Github. Some of them may still be private,
     </tr>
     <tr>
       <td><a href="https://github.com/francis802/TSP-Solver">TSP Solver</a></td>
-      <td> TODO </td>
+      <td> Project developed in C++ using real world map datasets, to create heuristics to solve the Travelling Salesman Problem </td>
     </tr>
     <tr>
       <td> LTW </td>
-      <td><a href="https://github.com/francis802/help.eic">help.eic - TBA</a></td>
+      <td><a href="https://github.com/francis802/heLpEIC">help.eic - TBA</a></td>
       <td> Trouble-Ticket Website developed in PHP, for students of L.EIC being able to address their doubts about university Curricular Units </td>
     </tr>
     <tr>
