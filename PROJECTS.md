@@ -19,7 +19,7 @@ Compilation of all my repositories on Github. Some of them may still be private,
       <td>Project developed in C++ using several data structures such as queue, stack, list, vector, and binary search tree (having in consideration efficiency of the operations over the structures)</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/francis802/Airlines-Manager">Timetable Manager</a></td>
+      <td><a href="https://github.com/francis802/Airlines-Manager">Airline Manager</a></td>
       <td>Project developed in C++ using real datasets of Airline Graphs, and developing efficient traversal algorithms over it</td>
     </tr>
     <tr>
