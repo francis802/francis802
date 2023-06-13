@@ -53,7 +53,7 @@ Compilation of all my repositories on Github. Some of them may still be private,
     </tr>
     <tr>
       <td> LCOM </td>
-      <td><a href="https://github.com/francis802/Tower-Clash">Tower Clash - TBA</a></td>
+      <td><a href="https://github.com/francis802/Tower-Clash">Tower Clash</a></td>
       <td> Game developed in C using MINIX OS for LCOM, and taking advantage of IO devices manipulation such as: Timer, Keyboard, Mouse, Graphics Card and Real-Time Clock </td>
     </tr>
     <tr>
