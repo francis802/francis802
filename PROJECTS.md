@@ -58,7 +58,7 @@ Compilation of all my repositories on Github. Some of them may still be private,
     </tr>
     <tr>
       <td> ESOF </td>
-      <td><a href="https://github.com/francis802/Rate-IT">Rate IT - TBA</a></td>
+      <td><a href="https://github.com/francis802/Rate-IT">Rate IT</a></td>
       <td> Mobile App developed in Flutter and using Firebase as Backend Service for rating and reviewing companies, courses and events present in <a href="https://www.itjobs.pt/"> ITJobs </a> API </td>
     </tr>
   </tbody>
