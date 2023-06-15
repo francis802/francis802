@@ -48,7 +48,7 @@ Compilation of all my repositories on Github. Some of them may still be private,
     </tr>
     <tr>
       <td> LTW </td>
-      <td><a href="https://github.com/francis802/heLpEIC">help.eic - TBA</a></td>
+      <td><a href="https://github.com/francis802/heLpEIC">help.eic</a></td>
       <td> Trouble-Ticket Website developed in PHP, for students of L.EIC being able to address their doubts about university Curricular Units </td>
     </tr>
     <tr>
