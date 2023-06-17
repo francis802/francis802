@@ -12,7 +12,7 @@ I'm a student of Informatics and Computing Engineering [(LEIC)](https://sigarra.
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=c,cpp,java,dart,py,html,css,js,php,git,github,gitlab,linux,sqlite,firebase&theme=light)
+![skills](https://skillicons.dev/icons?i=c,cpp,java,py,dart,flutter,androidstudio,html,css,js,php,linux,sqlite,firebase&theme=light)
 
 ## ⚡ GitHub Stats
 
