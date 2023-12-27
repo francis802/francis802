@@ -2,7 +2,7 @@
 
 I'm a student of Informatics and Computing Engineering [(LEIC)](https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=22841) at Faculty of Engineering of the University of Porto [(FEUP)](https://sigarra.up.pt/feup/pt/web_page.inicial)
 
-[![Email](https://shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:franciscosccampos@gmail.com)[![Spotify](https://img.shields.io/badge/spotify-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/franciscosccampos?si=d7f66e6085074651)
+[![Email](https://shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:franciscosccampos@gmail.com)
 
  - 💻 Currently studying Computer Engineering at FEUP.
  - 📚 Passionate about learning and exploring new technologies.
