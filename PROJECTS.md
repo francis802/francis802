@@ -61,5 +61,14 @@ Compilation of all my repositories on Github. Some of them may still be private,
       <td><a href="https://github.com/francis802/Rate-IT">Rate IT</a></td>
       <td> Mobile App developed in Flutter and using Firebase as Backend Service for rating and reviewing companies, courses and events present in <a href="https://www.itjobs.pt/"> ITJobs </a> API </td>
     </tr>
+    <tr>
+      <td rowspan=2>RCOM</td>
+      <td><a href="#">File Transmit</a></td>
+      <td>Project developed in C about transfering a file between two computers, following a protocol from the scratch that takes into account problems of timeout, noise and duplication of data frames</td>
+    </tr>
+    <tr>
+      <td><a href="#">TCP Downloader</a></td>
+      <td>Project consists of construing an internet network to acess the internet from the scratch, and transfering a file using TCP</td>
+    </tr>
   </tbody>
 </table>
