@@ -63,11 +63,11 @@ Compilation of all my repositories on Github. Some of them may still be private,
     </tr>
     <tr>
       <td rowspan=2>RCOM</td>
-      <td><a href="#">File Transmit</a></td>
+      <td><a href="https://github.com/francis802/rcom2324/tree/main/lab1">File Transmit</a></td>
       <td>Project developed in C about transfering a file between two computers, following a protocol from the scratch that takes into account problems of timeout, noise and duplication of data frames</td>
     </tr>
     <tr>
-      <td><a href="#">TCP Downloader</a></td>
+      <td><a href="https://github.com/francis802/rcom2324/tree/main/lab2">TCP Downloader</a></td>
       <td>Project consists of construing an internet network to acess the internet from the scratch, and transfering a file using TCP</td>
     </tr>
   </tbody>
