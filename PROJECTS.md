@@ -70,5 +70,14 @@ Compilation of all my repositories on Github. Some of them may still be private,
       <td><a href="https://github.com/francis802/rcom2324/tree/main/lab2">TCP Downloader</a></td>
       <td>Project consists of construing an internet network to acess the internet from the scratch, and transfering a file using TCP</td>
     </tr>
+    <tr>
+      <td rowspan=2>PFL</td>
+      <td><a href="https://github.com/francis802/Apart-Game">Apart Game</a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/francis802/Code-Compiler">Code Compiler</a></td>
+      <td> </td>
+    </tr>
   </tbody>
 </table>
