@@ -73,7 +73,7 @@ Compilation of all my repositories on Github. Some of them may still be private,
     <tr>
       <td rowspan=2>PFL</td>
       <td><a href="https://github.com/francis802/Apart-Game">Apart Game</a></td>
-      <td> Game developed in Prolog for the UC of Functional and Logic Programming. This board game can be played by two players, with one player against a bot, or just be played by two bots. </td>
+      <td> Game developed in Prolog for the UC of Functional and Logic Programming. The <a href="https://kanare-abstract.com/en/pages/apart">Apart Board Game</a> can be played by two players, with one player against a bot, or just be played by two bots. </td>
     </tr>
     <tr>
       <td><a href="https://github.com/francis802/Code-Compiler">Code Compiler</a></td>
