@@ -79,5 +79,10 @@ Compilation of all my repositories on Github. Some of them may still be private,
       <td><a href="https://github.com/francis802/Code-Compiler">Code Compiler</a></td>
       <td> Compiler made in the UC of Functional and Logic Programming. This project was developed in Haskell, and it's composed of the full procedure from parsing a string, until the execution of the code by the assembler </td>
     </tr>
+    <tr>
+      <td>LBAW</td>
+      <td><a href="https://github.com/francis802/Travellers">Travellers</a></td>
+      <td>Social Network made in Database and Web Applications Laboratory. Travellers aims to be the global hub where wanderlust meets community. We envision a world where individuals share, connect, and explore together, creating an inclusive space for unforgettable travel experiences. Used: Laravel, AJAX, Pusher, Mailtrap to make website dynamic</td>
+    </tr>
   </tbody>
 </table>
