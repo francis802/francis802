@@ -96,12 +96,12 @@ Compilation of all my repositories on Github. Some of them may still be private,
     </tr>
     <tr>
       <td rowspan=2>CPD</td>
-      <td><a href="https://github.com/francis802/Matrix-Benchmark">Matrix Benchmark</a></td>
-      <td>Blah blah blah</td>
+      <td><a href="https://github.com/francis802/cpd2324/tree/main/assign1">Matrix Benchmark</a></td>
+      <td>Project about benchmarking different algorithms, programing languages and paralelizations, and taking conclusion about their impact on performance and cache usage</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/francis802/Price-Right">Price is Right</a></td>
-      <td>Blah blah blah</td>
+      <td><a href="https://github.com/francis802/cpd2324/tree/main/assign2">Price is Right</a></td>
+      <td>This project is an implementation of a Server which hosts different games of "Price is Right", with ranked or simple game options. Used concurrency to establish safe access to the server resources, virtual threads to minimize thread overhead, and expiration tokens to create a system of fault tolerance, where a player may return to the same place of the queue where he previously was.</td>
     </tr>
     <tr>
       <td rowspan=2>IA</td>
