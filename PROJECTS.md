@@ -87,7 +87,7 @@ Compilation of all my repositories on Github. Some of them may still be private,
     <tr>
       <td>COMP</td>
       <td><a href="https://github.com/francis802/JavaMM-Compiler">Java-- Compiler</a></td>
-      <td>Blah blah blah</td>
+      <td>Compiler made for a subset of Java. Used an ANTLR Grammar, AST, and the backend engines Ollir and Jasmin to compile a class to executable code. Also implemented a "-o" optimization for constant folding and constant propagation</td>
     </tr>
     <tr>
       <td>CGRA</td>
