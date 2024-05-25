@@ -92,7 +92,7 @@ Compilation of all my repositories on Github. Some of them may still be private,
     <tr>
       <td>CGRA</td>
       <td><a href="https://github.com/francis802/Bee-Life">Bee Life</a></td>
-      <td>Blah blah blah</td>
+      <td>Project made for the Graphic Computation class. This 3D graphics environment consists of a bee, moved by the player, which has to collect pollen and leave it in its hive. Used shaders</td>
     </tr>
     <tr>
       <td rowspan=2>CPD</td>
