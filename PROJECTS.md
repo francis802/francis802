@@ -84,5 +84,33 @@ Compilation of all my repositories on Github. Some of them may still be private,
       <td><a href="https://github.com/francis802/Travellers">Travellers</a></td>
       <td>Social Network made in Database and Web Applications Laboratory. Travellers aims to be the global hub where wanderlust meets community. We envision a world where individuals share, connect, and explore together, creating an inclusive space for unforgettable travel experiences. Used: Laravel, AJAX, Pusher, Mailtrap to make website dynamic</td>
     </tr>
+    <tr>
+      <td>COMP</td>
+      <td><a href="https://github.com/francis802/JavaMM-Compiler">Java-- Compiler</a></td>
+      <td>Blah blah blah</td>
+    </tr>
+    <tr>
+      <td>CGRA</td>
+      <td><a href="https://github.com/francis802/Bee-Life">Bee Life</a></td>
+      <td>Blah blah blah</td>
+    </tr>
+    <tr>
+      <td rowspan=2>CPD</td>
+      <td><a href="https://github.com/francis802/Matrix-Benchmark">Matrix Benchmark</a></td>
+      <td>Blah blah blah</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/francis802/Price-Right">Price is Right</a></td>
+      <td>Blah blah blah</td>
+    </tr>
+    <tr>
+      <td rowspan=2>IA</td>
+      <td><a href="https://github.com/francis802/Sokobond-AI">Sokobond AI</a></td>
+      <td>Blah blah blah</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/francis802/NASA-Astheroids">NASA Astheroids</a></td>
+      <td>Blah blah blah</td>
+    </tr>
   </tbody>
 </table>
