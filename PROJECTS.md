@@ -105,8 +105,8 @@ Compilation of all my repositories on Github. Some of them may still be private,
     </tr>
     <tr>
       <td rowspan=2>IA</td>
-      <td><a href="https://github.com/francis802/Sokobond-AI">Sokobond AI</a></td>
-      <td>Blah blah blah</td>
+      <td><a href="https://github.com/francis802/SokobondAI">Sokobond AI</a></td>
+      <td>Sokobond game developed for the Curricular Unit of Artificial Intelligence. Developed Artificial Intelligence Algorithms to solve 10 different levels, all with different complexities and new game mechanics</td>
     </tr>
     <tr>
       <td><a href="https://github.com/francis802/NASA-Astheroids">NASA Astheroids</a></td>
