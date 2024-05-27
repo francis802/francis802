@@ -110,7 +110,7 @@ Compilation of all my repositories on Github. Some of them may still be private,
     </tr>
     <tr>
       <td><a href="https://github.com/francis802/NASA-Asteroids">NASA Asteroids</a></td>
-      <td>Blah blah blah</td>
+      <td>Machine Learning Models applied on a dataset provided by NASA, consisting on categorizing asteroids as Hazardous or Non-Hazordous for planet Earth. Applied different graphics to better see the data and predictions, like Correlation Matrix, Confusion Matrix, and Swarmplots. ML algorithms used: Decision Trees, Random Forest, Gradient Boosting, K-NN, SVM, Neural Networks, Logistic Regression, and Naive Bayes</td>
     </tr>
   </tbody>
 </table>
