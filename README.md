@@ -2,7 +2,7 @@
 
 I'm a student of Informatics and Computing Engineering [(LEIC)](https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=22841) at Faculty of Engineering of the University of Porto [(FEUP)](https://sigarra.up.pt/feup/pt/web_page.inicial)
  - 🎓 Completed Bsc in Computer Engineering at FEUP
- - 🤩 Made projects in Web Development, Software Engineering, Artificial Intelligence, Distributed Systems, and much more!
+ - 🤩 Made projects in WebDev, AI, Software Engineering, and much more!
 
 ## 🌐 Socials
 
