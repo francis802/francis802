@@ -7,6 +7,9 @@ I'm a student of Informatics and Computing Engineering [(LEIC)](https://sigarra.
 ## 🌐 Socials
 
 [![Email](https://shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:franciscosccampos@gmail.com)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/francisco.campos03)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciscosccampos/)
+[![Spotify](https://img.shields.io/badge/spotify-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/franciscosccampos?si=a144a0bd89974845)
 
 ## 🔧 Technologies
 
