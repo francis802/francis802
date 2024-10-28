@@ -2,7 +2,7 @@
 
 I'm a Master's student of Artificial Intelligence [(M.IA)](https://sigarra.up.pt/feup/en/CUR_GERAL.CUR_VIEW?pv_curso_id=30901&pv_ano_lectivo=2024) at Faculty of Engineering of the University of Porto [(FEUP)](https://sigarra.up.pt/feup/pt/web_page.inicial)
  - 🎓 Completed Bsc in Computer Engineering at FEUP
- - 🤩 Made projects in WebDev, AI, Software Engineering, and much more!
+ - 🤩 Made projects in AI, Software Engineering, WebDev, and much more!
 
 ## 🌐 Socials
 
