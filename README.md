@@ -1,6 +1,6 @@
 # Francisco Campos
 
-AI/ML engineer based in Porto. I'm currently an AI Engineer at Upgraide, where I build AI products end to end, mostly multi-agent pipelines and RAG systems with a full-stack layer around them. Alongside that I'm finishing my MSc in Artificial Intelligence at [FEUP](https://sigarra.up.pt/feup/en/CUR_GERAL.CUR_VIEW?pv_curso_id=30901&pv_ano_lectivo=2024), with a thesis on conversational agents for smart-home automation.
+AI/ML engineer based in Porto. I'm currently an AI Engineer, where I build AI products end to end, mostly multi-agent pipelines and RAG systems with a full-stack layer around them. I'm finishing my MSc in Artificial Intelligence at [FEUP](https://sigarra.up.pt/feup/en/CUR_GERAL.CUR_VIEW?pv_curso_id=30901&pv_ano_lectivo=2024), with a thesis on conversational agents for smart-home automation.
 
 I did my bachelor's in Informatics and Computing Engineering at FEUP too, and spent an exchange semester at PUC Chile. Most of my project work is in deep learning, computer vision and NLP, and I like taking things the whole way from raw data to something that actually runs, which is what most of my repos are.
 
