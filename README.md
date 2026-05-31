@@ -16,20 +16,11 @@ Right now I'm looking for new-grad and full-time roles. Based in Porto, Portugal
 
 Python is my main language for ML; C++ and Java for most other things.
 
-- **Languages:** Python, C++, C, Java, Haskell, JavaScript, PHP, C#, SQL
-- **ML and data:** PyTorch, TensorFlow / Keras, scikit-learn, Hugging Face Transformers, sentence-transformers, gensim, XGBoost, LightGBM, CatBoost, pandas, NumPy, OpenCV, Ultralytics (YOLO), NetworkX
-- **Web and mobile:** Laravel, Angular, Flutter, HTML/CSS, AJAX
-- **Tools:** Docker, Git, Linux, PostgreSQL, SQLite, Firebase
+- **Languages:** Python, C++, Java, JavaScript, SQL
+- **ML and data:** PyTorch, TensorFlow, scikit-learn, Hugging Face, OpenCV, pandas, NumPy
+- **Web:** Angular, Laravel, Flutter
+- **Tools:** Docker, Git, Linux, PostgreSQL
 
-## Featured projects
+## Projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| [DeepFake-Detection](https://github.com/francis802/DeepFake-Detection) | Detects and generates synthetic faces. CNN, ResNet-50 and EfficientNet classifiers (around 87% accuracy), plus GAN, DCGAN and WGAN-GP generators scored with FID. | PyTorch |
-| [Chess-Vision](https://github.com/francis802/Chess-Vision) | Reads a photo of a real chessboard into a digital board: U-Net segmentation, perspective correction, and YOLO piece detection mapped onto the 8x8 grid. | PyTorch, Ultralytics |
-| [Argument-Search-Engine](https://github.com/francis802/Argument-Search-Engine) | A search engine over debate arguments on Apache Solr, with semantic kNN using sentence-transformers, a Flask UI and TREC-style evaluation. | Solr, Transformers |
-| [Yelp-Recommender-SNA](https://github.com/francis802/Yelp-Recommender-SNA) | A sentiment-aware recommender plus a full social-network analysis of the Yelp graph: centrality, Louvain communities and activity forecasting. | scikit-learn, NetworkX |
-| [Java-- Compiler](https://github.com/francis802/JavaMM-Compiler) | A compiler for a subset of Java. ANTLR grammar to AST to OLLIR to Jasmin bytecode, with a constant folding and propagation pass. | Java, ANTLR |
-| [Travellers](https://github.com/francis802/Travellers) | A full-stack social network for travellers, with dynamic and real-time features over AJAX and Pusher. | Laravel, PostgreSQL |
-
-The full list of what I've built, master's and bachelor's, is in [PROJECTS.md](PROJECTS.md).
+The work I'm most proud of is pinned right below. For the full trail, from this year's master's projects back to first-year C, see [PROJECTS.md](PROJECTS.md).
