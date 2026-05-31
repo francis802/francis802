@@ -14,19 +14,12 @@ Right now I'm looking for new-grad and full-time roles. Based in Porto, Portugal
 
 ## Tech
 
-Python for the ML work, C++ and Java for most of the rest.
+Python is my main language for ML; C++ and Java for most other things.
 
-**Languages**
-
-![Languages](https://skillicons.dev/icons?i=py,cpp,c,java,haskell,js,php,cs&theme=light)
-
-**Machine learning and data**
-
-![Machine learning and data](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=light)
-
-**Web, mobile and tooling**
-
-![Web, mobile and tooling](https://skillicons.dev/icons?i=html,css,angular,laravel,flutter,dart,firebase,docker,linux,git,postgres,sqlite&theme=light)
+- **Languages:** Python, C++, C, Java, Haskell, JavaScript, PHP, C#, SQL
+- **ML and data:** PyTorch, TensorFlow / Keras, scikit-learn, Hugging Face Transformers, sentence-transformers, gensim, XGBoost, LightGBM, CatBoost, pandas, NumPy, OpenCV, Ultralytics (YOLO), NetworkX
+- **Web and mobile:** Laravel, Angular, Flutter, HTML/CSS, AJAX
+- **Tools:** Docker, Git, Linux, PostgreSQL, SQLite, Firebase
 
 ## Featured projects
 
