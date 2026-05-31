@@ -4,7 +4,7 @@ I'm an AI/ML engineer finishing my master's in Artificial Intelligence at [FEUP]
 
 Lately I work mostly in deep learning, computer vision and NLP. I like projects that go the whole way from raw data to something that actually runs, and most of my repos are exactly that.
 
-Right now I'm looking for new-grad and full-time roles. Based in Porto, Portugal.
+Right now I'm looking for new-grad and full-time roles.
 
 ## Contact
 
@@ -23,4 +23,4 @@ Python is my main language for ML; C++ and Java for most other things.
 
 ## Projects
 
-The work I'm most proud of is pinned right below. For the full trail, from this year's master's projects back to first-year C, see [PROJECTS.md](PROJECTS.md).
+The work I'm most proud of is pinned right below. For the full trail, from this year's master's projects back to first-year of my BSc, see [PROJECTS.md](PROJECTS.md).
