@@ -1,11 +1,5 @@
 # Projects
 
-A compilation of all my repositories on GitHub. Some may still be private, but I'll publish them once they're finished.
-
-Master's projects (Artificial Intelligence) are listed first, then the bachelor's (Informatics and Computing Engineering).
-
----
-
 ## Master's in Artificial Intelligence (M.IA, FEUP)
 
 | Field | Project | Description |
