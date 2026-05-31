@@ -1,8 +1,26 @@
 # Projects
-Compilation of all my repositories on Github. Some of them may still be private, but will be published once they're finished 👷‍♂️
+
+Compilation of all my repositories on GitHub. Some of them may still be private, but will be published once they're finished 👷‍♂️
+
+Organized by degree — **Master's (Artificial Intelligence)** first, then **Bachelor's (Informatics &amp; Computing Engineering)**.
 
 ---
-## University
+
+## 🎓 MSc — Artificial Intelligence · M.IA @ FEUP
+
+| Field | Project | Description |
+|---|---|---|
+| Deep Learning | **[DeepFake-Detection](https://github.com/francis802/DeepFake-Detection)** | Discriminative **and** generative take on deepfakes using the DeepFakeFace dataset: CNN / ResNet-50 / EfficientNet detectors (~87% accuracy) and GAN / DCGAN / WGAN-GP face generators evaluated with FID. Built in PyTorch. |
+| Computer Vision | **[Chess-Vision](https://github.com/francis802/Chess-Vision)** | Turns a photo of a physical chessboard into a digital twin: U-Net board segmentation, homography rectification, and YOLOv8 / YOLO11 piece detection mapped onto an 8×8 grid, rendered as a 2-D diagram. |
+| Information Retrieval | **[Argument-Search-Engine](https://github.com/francis802/Argument-Search-Engine)** | A search engine over debate arguments on Apache Solr 9 with three retrieval modes, including semantic kNN via sentence-transformer embeddings. Ships a Flask web UI and a TREC-style evaluation pipeline (P@k, MAP, PR curves). |
+| Natural Language Processing | **[Request-Detection-NLP](https://github.com/francis802/Request-Detection-NLP)** | Detects requests vs non-requests in open-source software messages: a Word2Vec + XGBoost / CatBoost baseline extended with fine-tuned transformers (RoBERTa, BERTweet, CodeBERT) and GPT. |
+| Data Science | **[Health-Insurance-Prediction](https://github.com/francis802/Health-Insurance-Prediction)** | Imbalanced binary classification predicting health-insurance coverage, following CRISP-DM: benchmarked 10+ models and tuned a LightGBM with oversampling to optimize the minority-class F1 score. |
+| Recommender Systems &amp; SNA | **[Yelp-Recommender-SNA](https://github.com/francis802/Yelp-Recommender-SNA)** | Two-part study on the Yelp dataset: a sentiment-enhanced restaurant recommender (NLP + collaborative filtering) and full social-network analysis — centrality, Louvain / Leiden communities, and review-activity forecasting. |
+| Dialogue Systems | **[Plato-Dialogue-System](https://github.com/francis802/Plato-Dialogue-System)** | Multi-agent reinforcement-learning dialogue experiments on the Plato Research Dialogue System, replicating a published collaborative-training setup and extending it to a custom Lisbon-Airbnb domain. |
+
+---
+
+## 🎓 BSc — Informatics &amp; Computing Engineering · L.EIC @ FEUP
 
 <table>
   <thead>
@@ -64,11 +82,11 @@ Compilation of all my repositories on Github. Some of them may still be private,
     <tr>
       <td rowspan=2>RCOM</td>
       <td><a href="https://github.com/francis802/rcom2324/tree/main/lab1">File Transmit</a></td>
-      <td>Project developed in C about transfering a file between two computers, following a protocol from the scratch that takes into account problems of timeout, noise and duplication of data frames</td>
+      <td>Project developed in C about transferring a file between two computers, following a protocol from the scratch that takes into account problems of timeout, noise and duplication of data frames</td>
     </tr>
     <tr>
       <td><a href="https://github.com/francis802/rcom2324/tree/main/lab2">TCP Downloader</a></td>
-      <td>Project consists of construing an internet network to acess the internet from the scratch, and transfering a file using TCP</td>
+      <td>Project consists of constructing an internet network to access the internet from the scratch, and transferring a file using TCP</td>
     </tr>
     <tr>
       <td rowspan=2>PFL</td>
@@ -97,7 +115,7 @@ Compilation of all my repositories on Github. Some of them may still be private,
     <tr>
       <td rowspan=2>CPD</td>
       <td><a href="https://github.com/francis802/cpd2324/tree/main/assign1">Matrix Benchmark</a></td>
-      <td>Project about benchmarking different algorithms, programing languages and paralelizations, and taking conclusion about their impact on performance and cache usage</td>
+      <td>Project about benchmarking different algorithms, programming languages and parallelizations, and taking conclusion about their impact on performance and cache usage</td>
     </tr>
     <tr>
       <td><a href="https://github.com/francis802/cpd2324/tree/main/assign2">Price is Right</a></td>
@@ -110,7 +128,7 @@ Compilation of all my repositories on Github. Some of them may still be private,
     </tr>
     <tr>
       <td><a href="https://github.com/francis802/NASA-Asteroids">NASA Asteroids</a></td>
-      <td>Machine Learning Models applied on a dataset provided by NASA, consisting on categorizing asteroids as Hazardous or Non-Hazordous for planet Earth. Applied different graphics to better see the data and predictions, like Correlation Matrix, Confusion Matrix, and Swarmplots. ML algorithms used: Decision Trees, Random Forest, Gradient Boosting, K-NN, SVM, Neural Networks, Logistic Regression, and Naive Bayes</td>
+      <td>Machine Learning Models applied on a dataset provided by NASA, consisting on categorizing asteroids as Hazardous or Non-Hazardous for planet Earth. Applied different graphics to better see the data and predictions, like Correlation Matrix, Confusion Matrix, and Swarmplots. ML algorithms used: Decision Trees, Random Forest, Gradient Boosting, K-NN, SVM, Neural Networks, Logistic Regression, and Naive Bayes</td>
     </tr>
   </tbody>
 </table>
