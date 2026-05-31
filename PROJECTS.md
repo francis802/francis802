@@ -1,12 +1,12 @@
 # Projects
 
-Compilation of all my repositories on GitHub. Some of them may still be private, but will be published once they're finished 👷‍♂️
+A compilation of all my repositories on GitHub. Some may still be private, but I'll publish them once they're finished.
 
-Organized by degree — **Master's (Artificial Intelligence)** first, then **Bachelor's (Informatics &amp; Computing Engineering)**.
+Master's projects (Artificial Intelligence) are listed first, then the bachelor's (Informatics and Computing Engineering).
 
 ---
 
-## 🎓 MSc — Artificial Intelligence · M.IA @ FEUP
+## Master's in Artificial Intelligence (M.IA, FEUP)
 
 | Field | Project | Description |
 |---|---|---|
@@ -15,12 +15,12 @@ Organized by degree — **Master's (Artificial Intelligence)** first, then **Bac
 | Information Retrieval | **[Argument-Search-Engine](https://github.com/francis802/Argument-Search-Engine)** | A search engine over debate arguments on Apache Solr 9 with three retrieval modes, including semantic kNN via sentence-transformer embeddings. Ships a Flask web UI and a TREC-style evaluation pipeline (P@k, MAP, PR curves). |
 | Natural Language Processing | **[Request-Detection-NLP](https://github.com/francis802/Request-Detection-NLP)** | Detects requests vs non-requests in open-source software messages: a Word2Vec + XGBoost / CatBoost baseline extended with fine-tuned transformers (RoBERTa, BERTweet, CodeBERT) and GPT. |
 | Data Science | **[Health-Insurance-Prediction](https://github.com/francis802/Health-Insurance-Prediction)** | Imbalanced binary classification predicting health-insurance coverage, following CRISP-DM: benchmarked 10+ models and tuned a LightGBM with oversampling to optimize the minority-class F1 score. |
-| Recommender Systems &amp; SNA | **[Yelp-Recommender-SNA](https://github.com/francis802/Yelp-Recommender-SNA)** | Two-part study on the Yelp dataset: a sentiment-enhanced restaurant recommender (NLP + collaborative filtering) and full social-network analysis — centrality, Louvain / Leiden communities, and review-activity forecasting. |
+| Recommender Systems and SNA | **[Yelp-Recommender-SNA](https://github.com/francis802/Yelp-Recommender-SNA)** | Two-part study on the Yelp dataset: a sentiment-enhanced restaurant recommender (NLP + collaborative filtering) and full social-network analysis — centrality, Louvain / Leiden communities, and review-activity forecasting. |
 | Dialogue Systems | **[Plato-Dialogue-System](https://github.com/francis802/Plato-Dialogue-System)** | Multi-agent reinforcement-learning dialogue experiments on the Plato Research Dialogue System, replicating a published collaborative-training setup and extending it to a custom Lisbon-Airbnb domain. |
 
 ---
 
-## 🎓 BSc — Informatics &amp; Computing Engineering · L.EIC @ FEUP
+## Bachelor's in Informatics and Computing Engineering (L.EIC, FEUP)
 
 <table>
   <thead>
